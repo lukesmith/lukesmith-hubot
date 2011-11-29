@@ -18,7 +18,8 @@
     "hubot": "2.0.4",
     "hubot-scripts": "2.0.2",
     "optparse": "1.0.3",
-    "hubot-hipchat-adapter": "1.0.0"
+    "hubot-hipchat-adapter": "1.0.0",
+    "node-stringprep": "0.1.0"
   }
 }
 
