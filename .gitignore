@@ -2,3 +2,4 @@
 /.idea/
 /dump.rdb
 .env
+.DS_Store
